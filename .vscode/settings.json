@@ -4,6 +4,7 @@
     "map": "cpp",
     "queue": "cpp",
     "iostream": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "iosfwd": "cpp"
   }
 }
